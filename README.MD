@@ -1,4 +1,4 @@
-# FIFO Sockets Project
+# FIFO Socket Project
 
 ## Overview
 
